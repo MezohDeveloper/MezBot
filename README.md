@@ -1,21 +1,21 @@
 
 <td align="center">
     <a href="#">
-        <img src="https://cdn.discordapp.com/attachments/1215803884384030840/1215803913266139177/image-modified.png?ex=65fe14a1&is=65eb9fa1&hm=0f8ef19e5b1a81df99ee7da34124eab93ec6918b7c797ed7a7ea1fb08b4a1e9f&" width="100px" alt="SootBot">
+        <img src="https://cdn.discordapp.com/attachments/1216129643451781152/1217473619253526538/lv_0_20240223230218.mp4?ex=660427aa&is=65f1b2aa&hm=5294fcb71d056a5208bf911f32d13db595c2d7d154b8d7c542cd006c2dec2e75&" width="100px" alt="MezBot">
     </a>
 </td>
 <td align="center">
-    <h1>SootBot</h1>
+    <h1>MezBot</h1>
 </td>
 
 
-SootBot is an upgraded iteration of the original bot utilized in WilburSoot's primary Discord server. Initially crafted solely for the New Wilbur Soot Discord community, this versatile bot is now accessible to all.
+MezBot is an upgraded iteration of the original bot utilized in WilburSoot's primary Discord server. Initially crafted solely for the New Wilbur Soot Discord community, this versatile bot is now accessible to all.
 
 ## Installation ##
 1. Clone the repository:
-`git clone https://github.com/WaterMeloDev/SootBot`
+`git clone  `
 2. Navigate to the project directory:
-`cd SootBot`
+`cd MezBot`
 3. Install the required dependencies:
 `pip install -r requirements.txt`
 
@@ -24,7 +24,7 @@ SootBot is an upgraded iteration of the original bot utilized in WilburSoot's pr
 - Enhance log functionality in `cogs/server_logs.py` by providing additional information.
 
 ## Collaboration ##
-Contributions to SootBot are welcome! To submit your code, follow these steps:
+Contributions to MezBot are welcome! To submit your code, follow these steps:
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
 3. Create a new branch for your changes.
@@ -41,4 +41,4 @@ Contributions to SootBot are welcome! To submit your code, follow these steps:
 - sqlite3
 
 ## Author ##
-SootBot is developed and maintained by the community.
+MezBot is developed and maintained by the community.
