@@ -13,7 +13,7 @@ MezBot is an upgraded iteration of the original bot utilized in WilburSoot's pri
 
 ## Installation ##
 1. Clone the repository:
-`git clone https://github.com/MezohDeveloper/MezBot  `
+`git clone https://github.com/MezohDeveloper/MezBot`
 2. Navigate to the project directory:
 `cd MezBot`
 3. Install the required dependencies:
